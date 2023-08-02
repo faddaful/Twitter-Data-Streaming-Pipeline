@@ -1,4 +1,4 @@
-# Twitter-Data-Streaming-Pipeline using python on Airflow, Amazon ec2 and Amazon s3
+# Twitter-Streaming-Data-Pipeline using python on Airflow, Amazon ec2 and Amazon s3
 
 This project use Twitter API to extract Tweets continuously on Twitter from a specified user. Use python to transform the data from json to css data frame, then deploy the code on Apache airflow and Amazon EC2 and save the final result to Amazon S3.
 
